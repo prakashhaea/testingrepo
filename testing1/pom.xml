@@ -5,7 +5,7 @@
   <groupId>com.google</groupId>
   <artifactId>testing1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging> <!-- Adding comment with hello   -->
+  <packaging>jar</packaging> <!-- Adding comment with hello!!!!  -->
 
   <name>testing1</name>
   <url>http://maven.apache.org</url>
